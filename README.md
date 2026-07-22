@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Academic Background:** Second-Year B.Tech Student in Artificial Intelligence & Data Science (Based in Maharashtra, India).
+- 🎓 **Academic Background:** Third-Year B.Tech Student in Artificial Intelligence & Data Science (Based in Maharashtra, India).
 - 💡 **Core Interests:** Frontend Development, Python Programming, and intelligent web applications.
 - 🌱 **Currently Exploring:** Advanced AI concepts, Modern JavaScript, and Three.js for 3D web experiences.
 - ✨ **Key Project:** Creator of **SpaceVerse**, an immersive and interactive space exploration web platform.
