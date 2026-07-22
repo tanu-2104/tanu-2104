@@ -13,17 +13,16 @@ Artificial Intelligence & Data Science Student • Frontend Developer • Python
 - 🌱 Currently learning Python, JavaScript & AI
 - 🚀 Love building modern and interactive applications
 
----
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-```text
-┌──────────────────────────────┐
-│ 🐍 Python                    │
-│ 🌐 HTML • CSS • JavaScript   │
-│ ⚙️ Git • GitHub • VS Code    │
-│ 💻 C • C++                   │
-└──────────────────────────────┘
-```
+### Languages
+🐍 Python • C • C++
+
+### Web Development
+🌐 HTML • CSS • JavaScript
+
+### Tools
+🛠 Git • GitHub • VS Code
 ### 📫 Connect with Me
 
 <p align="left">
