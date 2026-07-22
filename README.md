@@ -21,21 +21,16 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,git,github,vscode&perline=5" alt="Tech Stack Icons" />
-</div>
+### Languages
+🐍 Python • C • C++
 
----
+### Web Development
+🌐 HTML • CSS • JavaScript
 
-## 📈 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanu-2104&show_icons=true&theme=radical&hide_border=true" alt="Tajmin's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanu-2104&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
+### Tools
+🛠 Git • GitHub • VS Code
 ---
 
 ## 🤝 Let's Connect
