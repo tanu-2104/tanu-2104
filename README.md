@@ -16,15 +16,22 @@ Artificial Intelligence & Data Science Student • Frontend Developer • Python
 ---
 ## 🛠️ Tech Stack
 
-### Languages
-🐍 Python • C • C++
+<div align="center">
 
-### Web Development
-🌐 HTML • CSS • JavaScript
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
 
-### Tools
-🛠 Git • GitHub • VS Code
+<br><br>
 
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</div>
 ### 📫 Connect with Me
 
 <p align="left">
