@@ -14,27 +14,10 @@ Artificial Intelligence & Data Science Student • Frontend Developer • Python
 - 🚀 Love building modern and interactive applications
 
 ---
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-
-  <!-- Frameworks -->
-  <!-- Add more here -->
-
-  <!-- Databases -->
-  <!-- Add more here -->
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,git,github,vscode,mysql&perline=5"/>
 </p>
 
 ### 📫 Connect with Me
