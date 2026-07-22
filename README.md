@@ -1,69 +1,60 @@
-# Hi 👋, I'm Tajmin Shikalgar
-
-### 🚀 Artificial Intelligence & Data Science Student | Frontend Developer | Python Enthusiast
-
-Passionate about building modern web applications, exploring Artificial Intelligence, and creating interactive user experiences.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Second Year Artificial Intelligence & Data Science Student
-- 💻 Passionate about Frontend Development and Python
-- 🌱 Currently learning JavaScript, Three.js, and AI
-- 🚀 Building projects to strengthen my development skills
-- 🌌 Creator of **SpaceVerse**, an immersive space exploration website
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### 🌌 SpaceVerse
-
-An immersive space exploration website featuring an interactive solar system, animated starfield, atmospheric visualization, and a futuristic UI.
-
-🔗 **Live Demo:** https://space-verse-zeta.vercel.app
-
-🔗 **Repository:** https://github.com/tanu-2104/spaceverse
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Tajmin Shikalgar</h1>
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanu-2104&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-2104&layout=compact&theme=tokyonight&hide_border=true"/>
-
+Artificial Intelligence & Data Science Student • Frontend Developer • Python Enthusiast
 </p>
 
 ---
 
-## 🌐 Connect with Me
+### 👩‍💻 About Me
+
+- 🎓 AI & Data Science Student
+- 💻 Passionate about Frontend Development
+- 🌱 Currently learning Python, JavaScript & AI
+- 🚀 Love building modern and interactive applications
+
+---
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://github.com/tanu-2104" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
 
-  <a href="https://www.linkedin.com/in/tajminshikalgar387" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <!-- Frameworks -->
+  <!-- Add more here -->
 
+  <!-- Databases -->
+  <!-- Add more here -->
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/tanu-2104">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tajminshikalgar387">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
   <a href="mailto:tanyashikalgar07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-> *"Every expert was once a beginner. Keep learning, keep building."* 🚀
+<p align="center">
+✨ <i>Learning, Building, and Growing every day.</i>
+</p>
