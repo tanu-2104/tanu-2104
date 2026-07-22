@@ -23,24 +23,20 @@ Artificial Intelligence & Data Science Student • Frontend Developer • Python
 
 ### Tools
 🛠 Git • GitHub • VS Code
-### 📫 Connect with Me
+## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/tanu-2104">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tajminshikalgar387">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:tanyashikalgar07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="https://github.com/tanu-2104" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/tajminshikalgar387" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:tanyashikalgar07@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
-
----
-
-<p align="center">
 ✨ <i>Learning, Building, and Growing every day.</i>
 </p>
