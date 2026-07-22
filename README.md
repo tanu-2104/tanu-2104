@@ -14,11 +14,16 @@ Artificial Intelligence & Data Science Student • Frontend Developer • Python
 - 🚀 Love building modern and interactive applications
 
 ---
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,git,github,vscode,mysql&perline=5"/>
-</p>
+### Languages
+🐍 Python • C • C++
+
+### Web Development
+🌐 HTML • CSS • JavaScript
+
+### Tools
+🛠 Git • GitHub • VS Code
 
 ### 📫 Connect with Me
 
