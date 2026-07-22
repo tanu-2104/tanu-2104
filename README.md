@@ -4,7 +4,7 @@
 
 ### 🚀 Artificial Intelligence & Data Science Undergraduate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-DEPLOYED-PORTFOLIO-URL.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://tajmin-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajminshikalgar387)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanu-2104)
 
@@ -38,7 +38,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **SpaceVerse** | Immersive 3D space exploration website with interactive solar system & telemetry. | HTML/CSS, JS, 3D UI | [GitHub](https://github.com/tanu-2104/spaceverse) |
+| **SpaceVerse** | Immersive 3D space exploration website with interactive solar system & telemetry. | HTML/CSS, JS, 3D UI | [Live](https://tajmin-portfolio.vercel.app) \| [GitHub](https://github.com/tanu-2104/spaceverse) |
 | **AI Interview Coach** | Practice technical interviews with an intelligent AI feedback assistant. | JavaScript, AI Integration | [GitHub](https://github.com/tanu-2104/AI-Interview-Coach) |
 | **Workout Generator** | Client-side personalized weekly workout plan generator. | React + Vite, JavaScript | [GitHub](https://github.com/tanu-2104/workout-generator) |
 | **Apex Typing Test** | Modern typing speed test app with live WPM tracking and analytics. | JavaScript, DOM Analytics | [GitHub](https://github.com/tanu-2104/apex-typing-test) |
