@@ -4,9 +4,9 @@
 
 ### 🚀 Artificial Intelligence & Data Science Undergraduate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=About.me)](https://github.com/tanu-2104)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tajminshikalgar387)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/tanu-2104)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-DEPLOYED-PORTFOLIO-URL.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajminshikalgar387)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanu-2104)
 
 </div>
 
@@ -14,10 +14,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Academic Background:** Third-Year B.Tech Student in Artificial Intelligence & Data Science (Based in Maharashtra, India).
+- 🎓 **Academic Background:** Third-Year B.Tech Student in Artificial Intelligence & Data Science at Dr. J J Magdum College of Engineering, Jaysingpur (CGPA: 8.93).
 - 💡 **Core Interests:** Frontend Development, Python Programming, and intelligent web applications.
-- 🌱 **Currently Exploring:** Advanced AI concepts, Modern JavaScript, and Three.js for 3D web experiences.
-- ✨ **Key Project:** Creator of **SpaceVerse**, an immersive and interactive space exploration web platform.
+- 🌱 **Currently Exploring:** Advanced AI concepts, Modern JavaScript, and React + Vite.
+- ✨ **Key Project:** Creator of **SpaceVerse**, an immersive 3D space exploration web platform.
 
 ---
 
@@ -27,10 +27,22 @@
 🐍 Python • C • C++
 
 ### Web Development
-🌐 HTML • CSS • JavaScript
+🌐 HTML5 • CSS3 • JavaScript • React + Vite
 
 ### Tools
 🛠 Git • GitHub • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **SpaceVerse** | Immersive 3D space exploration website with interactive solar system & telemetry. | HTML/CSS, JS, 3D UI | [GitHub](https://github.com/tanu-2104/spaceverse) |
+| **AI Interview Coach** | Practice technical interviews with an intelligent AI feedback assistant. | JavaScript, AI Integration | [GitHub](https://github.com/tanu-2104/AI-Interview-Coach) |
+| **Workout Generator** | Client-side personalized weekly workout plan generator. | React + Vite, JavaScript | [GitHub](https://github.com/tanu-2104/workout-generator) |
+| **Apex Typing Test** | Modern typing speed test app with live WPM tracking and analytics. | JavaScript, DOM Analytics | [GitHub](https://github.com/tanu-2104/apex-typing-test) |
+
 ---
 
 ## 🤝 Let's Connect
