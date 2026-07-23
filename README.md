@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Academic Background:** Third-Year B.Tech Student in Artificial Intelligence & Data Science at Dr. J J Magdum College of Engineering, Jaysingpur (CGPA: 8.93).
+- 🎓 **Academic Background:** Third-Year B.Tech Student in Artificial Intelligence & Data Science at Dr. J J Magdum College of Engineering, Jaysingpur 
 - 💡 **Core Interests:** Frontend Development, Python Programming, and intelligent web applications.
 - 🌱 **Currently Exploring:** Advanced AI concepts, Modern JavaScript, and React + Vite.
 - ✨ **Key Project:** Creator of **SpaceVerse**, an immersive 3D space exploration web platform.
